@@ -26,18 +26,6 @@ public class Node {
         return coefficient;
     }
 
-    public int getExponentX() {
-        return exponentX;
-    }
-
-    public int getExponentY() {
-        return exponentY;
-    }
-
-    public int getExponentZ() {
-        return exponentZ;
-    }
-
     public Node addWith(Node node) {
         if (this.exponentX == node.exponentX &&
                 this.exponentY == node.exponentY &&
