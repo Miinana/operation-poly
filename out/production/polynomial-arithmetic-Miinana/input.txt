@@ -1,0 +1,6 @@
+5
++ 5x3y2+3x2y4 5x2y4+2x
+- 2xyz+4y 2xyz+4y
+- 5x3y2+3x2y4 5x2y4+2x
++ 2xyz+4y 2xyz-4y
++ x4y2-3x2y3+2x100y3 -x4y2+3x2y3-2x100y3
